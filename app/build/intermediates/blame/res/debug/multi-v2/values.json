@@ -1,0 +1,70 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/dershentan/Documents/Assignment1/SimpleMessenger-dershentan/C:\\Users\\DerShenTan\\Documents\\CSE486\\Assignment1\\SimpleMessenger-dershentan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "/home/dershentan/Documents/Assignment1/SimpleMessenger-dershentan/C:\\Users\\DerShenTan\\Documents\\CSE486\\Assignment1\\SimpleMessenger-dershentan\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,111",
+                        "endColumns": "52,42",
+                        "endOffsets": "105,149"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,42",
+                        "endOffsets": "103,146"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/dershentan/Documents/SimpleMessenger-dershentan/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/dershentan/Documents/SimpleMessenger-dershentan/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,111",
+                        "endColumns": "52,42",
+                        "endOffsets": "105,149"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,42",
+                        "endOffsets": "103,146"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/dershentan/Documents/Assignment1/SimpleMessenger-dershentan/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/dershentan/Documents/Assignment1/SimpleMessenger-dershentan/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,111",
+                        "endColumns": "52,42",
+                        "endOffsets": "105,149"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,42",
+                        "endOffsets": "103,146"
+                    }
+                }
+            ]
+        }
+    ]
+}
